@@ -1,0 +1,16 @@
+{
+    "name": "@project/core",
+    "version": "0.0.10",
+    "description": "",
+    "exports": {
+        ".": {
+            "import": "./build/index.js"
+        }
+    },
+    "scripts": {},
+    "author": "",
+    "license": "MIT",
+    "type": "module",
+    "devDependencies": {},
+    "peerDependencies": {}
+}
