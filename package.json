@@ -12,9 +12,6 @@
     "license": "ISC",
     "type": "module",
     "devDependencies": {
-        "@rollup/plugin-commonjs": "^25.0.7",
-        "@rollup/plugin-dynamic-import-vars": "^2.1.2",
-        "@rollup/plugin-json": "^6.1.0",
         "@rollup/plugin-node-resolve": "^15.2.3",
         "@rollup/plugin-typescript": "^11.1.6",
         "@types/node": "^20.10.5",
